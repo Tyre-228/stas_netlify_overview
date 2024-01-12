@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+ 
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #4eb9e0;
+    color: white;
+    font-size: 24px;
+}
+ 
+section {
+    margin-bottom: 20px;
+}
+ 
+h2 {
+    color: #4eb9e0;
+}
+ 
+.rating {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+}
+ 
+.red { color: red; }
+.amber { color: orange; }
+.green { color: green; }
+ 
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}
